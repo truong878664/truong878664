@@ -5,11 +5,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### ● Top languages used
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong878664&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=" alt="truong878664" width=100%"/>
-    </td>
-    
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong878664&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10&custom_title="/>
